@@ -1,0 +1,115 @@
+<html>
+<head>
+<style>
+body { font-family: Arial, Helvetica, sans-serif; }
+</style>
+</head>
+<body>
+<h2>Report UBC1565 DBSCAN</h2>
+<p>Model parameters:</p><p>{'algorithm': 'auto', 'eps': 0.5, 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'min_samples': 5, 'n_jobs': None, 'p': None}</p><br/><br/><p>UBC1565 269 75 DBSCAN<p>UBC1565 (269+75%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6635)<p>UBC1565 (269+75%) DBSCAN - Cluster 0. Found: 269 (100.0%). Missed: 0. New: 160/1. Noise: 41<p>UBC1565 269 100 DBSCAN<p>UBC1565 (269+100%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6714)<p>UBC1565 (269+100%) DBSCAN - Cluster 0. Found: 269 (100.0%). Missed: 0. New: 222/5. Noise: 47<p>UBC1565 269 300 DBSCAN<p>UBC1565 (269+300%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6375)<p>UBC1565 (269+300%) DBSCAN - Cluster 0. Found: 269 (100.0%). Missed: 0. New: 760/23. Noise: 47<p>UBC1565 269 500 DBSCAN<p>UBC1565 (269+500%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6843)<p>UBC1565 (269+500%) DBSCAN - Cluster 0. Found: 269 (100.0%). Missed: 0. New: 1290/21. Noise: 55<p>UBC1565 269 1000 DBSCAN<p>UBC1565 (269+1000%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.7331)<p>UBC1565 (269+1000%) DBSCAN - Cluster 0. Found: 269 (100.0%). Missed: 0. New: 2622/39. Noise: 68<br/><br/><br/><br/><h2>Plots</h2>
+<center>
+<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_all_clusters.png"><br/>Plot 1<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_0.png"><br/>Plot 2<br/><br/><br/><br/><br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_all_clusters.png"><br/>Plot 3<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_0.png"><br/>Plot 4<br/><br/><br/><br/><br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_all_clusters.png"><br/>Plot 5<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_0.png"><br/>Plot 6<br/><br/><br/><br/><br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_all_clusters.png"><br/>Plot 7<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_0.png"><br/>Plot 8<br/><br/><br/><br/><br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_all_clusters.png"><br/>Plot 9<br/><br/><br/><br/><image src="./gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_0.png"><br/>Plot 10<br/><br/><br/><br/></center>
+<h2>Log</h2>
+<br/><br/><p><pre>
+Sources file: ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source.csv
+
+Model parameters: {'algorithm': 'auto', 'eps': 0.5, 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'min_samples': 5, 'n_jobs': None, 'p': None}
+
+Sources count: 269 +75%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 41
+Silhoutte score: 0.6635108513192165
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_all_clusters.csv
+
+
+Cluster 0 -> ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_75_cluster_0.png
+Catalogued sources found in cluster 0: 269 (100.0%)
+Extra elements found: 160
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 269 +100%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 47
+Silhoutte score: 0.6714206888427309
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_all_clusters.csv
+
+
+Cluster 0 -> ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_100_cluster_0.png
+Catalogued sources found in cluster 0: 269 (100.0%)
+Extra elements found: 222
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 269 +300%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 47
+Silhoutte score: 0.6375253513899413
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_all_clusters.csv
+
+
+Cluster 0 -> ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_300_cluster_0.png
+Catalogued sources found in cluster 0: 269 (100.0%)
+Extra elements found: 760
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 269 +500%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 55
+Silhoutte score: 0.684348155148153
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_all_clusters.csv
+
+
+Cluster 0 -> ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_500_cluster_0.png
+Catalogued sources found in cluster 0: 269 (100.0%)
+Extra elements found: 1290
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 269 +1000%
+
+Reading ./test_1/AA_661_A118/output/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 68
+Silhoutte score: 0.7330999856834446
+
+
+Main plot ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_all_clusters.csv
+
+
+Cluster 0 -> ./test_1/AA_661_A118/output/report_20230804T175422/UBC1565_DBSCAN_20230804T175422/gaia_query_UBC1565_gaiaedr3.gaia_source_sample_1000_cluster_0.png
+Catalogued sources found in cluster 0: 269 (100.0%)
+Extra elements found: 2622
+Catalogued sources not found in cluster: 0
+
+
+</pre></p>
+<p>End log</p></body>
+</html>

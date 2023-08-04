@@ -1,0 +1,9 @@
+Run: 2023-08-04 T 17:47:51. Comand line: ./main.py -dir=test_1/AA_618_A59 -task=classify -cluster=UBC8 -model=all -> Report dir: ./test_1/AA_618_A59/output/report_20230804T174751
+Run: 2023-08-04 T 17:48:12. Comand line: ./main.py -dir=test_1/AA_618_A59 -task=classify -cluster=UBC17_a -model=all -> Report dir: ./test_1/AA_618_A59/output/report_20230804T174812
+Run: 2023-08-04 T 17:48:43. Comand line: ./main.py -dir=test_1/AA_618_A59 -task=classify -cluster=UBC17_b -model=all -> Report dir: ./test_1/AA_618_A59/output/report_20230804T174843
+Run: 2023-08-04 T 17:49:05. Comand line: ./main.py -dir=test_1/AA_635_A45 -task=classify -cluster=UBC106 -model=all -> Report dir: ./test_1/AA_635_A45/output/report_20230804T174905
+Run: 2023-08-04 T 17:50:03. Comand line: ./main.py -dir=test_1/AA_635_A45 -task=classify -cluster=UBC186 -model=all -> Report dir: ./test_1/AA_635_A45/output/report_20230804T175003
+Run: 2023-08-04 T 17:51:24. Comand line: ./main.py -dir=test_1/AA_635_A45 -task=classify -cluster=UBC570 -model=all -> Report dir: ./test_1/AA_635_A45/output/report_20230804T175124
+Run: 2023-08-04 T 17:52:15. Comand line: ./main.py -dir=test_1/AA_661_A118 -task=classify -cluster=UBC1004 -model=all -> Report dir: ./test_1/AA_661_A118/output/report_20230804T175215
+Run: 2023-08-04 T 17:53:06. Comand line: ./main.py -dir=test_1/AA_661_A118 -task=classify -cluster=UBC1015 -model=all -> Report dir: ./test_1/AA_661_A118/output/report_20230804T175306
+Run: 2023-08-04 T 17:54:22. Comand line: ./main.py -dir=test_1/AA_661_A118 -task=classify -cluster=UBC1565 -model=all -> Report dir: ./test_1/AA_661_A118/output/report_20230804T175422

@@ -1,0 +1,801 @@
+Command line: ./main.py -dir=test_1/AA_618_A59 -task=classify -cluster=UBC8 -model=all
+Using properties file: ./test_1/AA_618_A59/config.properties
+Clusters to process: UBC8
+Found 103 sources for cluster UBC8 in file ./test_1/AA_618_A59/data.csv
+
+Sources count: 103 +75%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 19
+Silhoutte score: 0.6341290067355667
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 58
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +100%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_100.csv
+
+Estimated number of clusters: 2
+Estimated number of noise points: 22
+Silhoutte score: 0.5775572832191881
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 73
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +300%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_300.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 38
+Silhoutte score: 0.6519738351025488
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 271
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +500%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_500.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 41
+Silhoutte score: 0.7257448683857601
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 474
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +1000%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 55
+Silhoutte score: 0.7668862419549796
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_DBSCAN_20230804T174751/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 975
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +75%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_75.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 75
+Silhoutte score: 0.5655527197116778
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +100%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_100.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 95
+Silhoutte score: 0.5276682389026062
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +300%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_300.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 184
+Silhoutte score: 0.34970115276426533
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 0 (0.0%)
+Extra elements found: 228
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +500%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_500.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 95
+Silhoutte score: 0.5755653890623633
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 420
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +1000%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 1
+Estimated number of noise points: 130
+Silhoutte score: 0.6399924964052682
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_OPTICS_20230804T174753/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 900
+Catalogued sources not found in cluster: 0
+
+
+Sources count: 103 +75%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_75.csv
+
+Estimated number of clusters: 10
+Estimated number of noise points: 0
+Silhoutte score: 0.70816315042289
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_75_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 45
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +100%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_100.csv
+
+Estimated number of clusters: 11
+Estimated number of noise points: 0
+Silhoutte score: 0.5816665260015246
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_100_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 17
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 68
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 5
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +300%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_300.csv
+
+Estimated number of clusters: 16
+Estimated number of noise points: 0
+Silhoutte score: 0.3882149502257101
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_300_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 250
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 15
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 19
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 7
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 3
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +500%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_500.csv
+
+Estimated number of clusters: 19
+Estimated number of noise points: 0
+Silhoutte score: 0.3988139497084706
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_500_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 447
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 4
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 22
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 10
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Sources count: 103 +1000%
+
+Reading ./test_1/AA_618_A59/output/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000.csv
+
+Estimated number of clusters: 26
+Estimated number of noise points: 0
+Silhoutte score: 0.3601795602569751
+
+
+Main plot ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.png
+Main csv ./test_1/AA_618_A59/output/report_20230804T174751/UBC8_MeanShift_20230804T174755/gaia_query_UBC8_gaiadr2.gaia_source_sample_1000_all_clusters.csv
+
+
+Catalogued sources found in cluster 0: 103 (100.0%)
+Extra elements found: 924
+Catalogued sources not found in cluster: 0
+
+
+Catalogued sources found in cluster 1: 0 (0.0%)
+Extra elements found: 20
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 2: 0 (0.0%)
+Extra elements found: 12
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 3: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 4: 0 (0.0%)
+Extra elements found: 9
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 5: 0 (0.0%)
+Extra elements found: 11
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 6: 0 (0.0%)
+Extra elements found: 8
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 7: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 8: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 9: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 10: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 11: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 12: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 13: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 14: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 15: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 16: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 17: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 18: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 19: 0 (0.0%)
+Extra elements found: 2
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 20: 0 (0.0%)
+Extra elements found: 15
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 21: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 22: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 23: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 24: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Catalogued sources found in cluster 25: 0 (0.0%)
+Extra elements found: 1
+Catalogued sources not found in cluster: 103
+
+
+Multi-model metrics:
+UBC8 103 75 DBSCAN
+UBC8 (103+75%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6341)
+UBC8 (103+75%) DBSCAN - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 58/0. Noise: 19
+UBC8 103 100 DBSCAN
+UBC8 (103+100%) DBSCAN - Estimated number of clusters: 2 (Silhouette: 0.5776)
+UBC8 (103+100%) DBSCAN - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 8/2. Noise: 95
+UBC8 (103+100%) DBSCAN - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 73/0. Noise: 133
+UBC8 103 300 DBSCAN
+UBC8 (103+300%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.6520)
+UBC8 (103+300%) DBSCAN - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 271/0. Noise: 38
+UBC8 103 500 DBSCAN
+UBC8 (103+500%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.7257)
+UBC8 (103+500%) DBSCAN - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 474/2. Noise: 41
+UBC8 103 1000 DBSCAN
+UBC8 (103+1000%) DBSCAN - Estimated number of clusters: 1 (Silhouette: 0.7669)
+UBC8 (103+1000%) DBSCAN - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 975/4. Noise: 55
+
+
+Params: {'algorithm': 'auto', 'eps': 0.5, 'leaf_size': 30, 'metric': 'euclidean', 'metric_params': None, 'min_samples': 5, 'n_jobs': None, 'p': None}
+
+UBC8 103 75 OPTICS
+UBC8 (103+75%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.5656)
+UBC8 (103+75%) OPTICS - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 2/0. Noise: 75
+UBC8 103 100 OPTICS
+UBC8 (103+100%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.5277)
+UBC8 (103+100%) OPTICS - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 8/2. Noise: 95
+UBC8 103 300 OPTICS
+UBC8 (103+300%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.3497)
+UBC8 (103+300%) OPTICS - Cluster 0. Found: 0 (0.0%). Missed: 103. New: 228/0. Noise: 184
+UBC8 103 500 OPTICS
+UBC8 (103+500%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.5756)
+UBC8 (103+500%) OPTICS - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 420/2. Noise: 95
+UBC8 103 1000 OPTICS
+UBC8 (103+1000%) OPTICS - Estimated number of clusters: 1 (Silhouette: 0.6400)
+UBC8 (103+1000%) OPTICS - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 900/4. Noise: 130
+
+
+Params: {'algorithm': 'auto', 'cluster_method': 'xi', 'eps': None, 'leaf_size': 30, 'max_eps': inf, 'metric': 'minkowski', 'metric_params': None, 'min_cluster_size': 0.5, 'min_samples': 5, 'n_jobs': None, 'p': 2, 'predecessor_correction': True, 'xi': 0.05}
+
+UBC8 103 75 MeanShift
+UBC8 (103+75%) MeanShift - Estimated number of clusters: 10 (Silhouette: 0.7082)
+UBC8 (103+75%) MeanShift - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 8/0. Noise: 69
+UBC8 (103+75%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 45/0. Noise: 135
+UBC8 (103+75%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 103. New: 7/0. Noise: 173
+UBC8 (103+75%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 103. New: 10/0. Noise: 170
+UBC8 (103+75%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 178
+UBC8 (103+75%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 179
+UBC8 (103+75%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 179
+UBC8 (103+75%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 179
+UBC8 (103+75%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 179
+UBC8 (103+75%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 179
+UBC8 103 100 MeanShift
+UBC8 (103+100%) MeanShift - Estimated number of clusters: 11 (Silhouette: 0.5817)
+UBC8 (103+100%) MeanShift - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 17/2. Noise: 86
+UBC8 (103+100%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 68/0. Noise: 138
+UBC8 (103+100%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 103. New: 5/0. Noise: 201
+UBC8 (103+100%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 103. New: 4/0. Noise: 202
+UBC8 (103+100%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 (103+100%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 (103+100%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 (103+100%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 103. New: 3/0. Noise: 203
+UBC8 (103+100%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 (103+100%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 (103+100%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 205
+UBC8 103 300 MeanShift
+UBC8 (103+300%) MeanShift - Estimated number of clusters: 16 (Silhouette: 0.3882)
+UBC8 (103+300%) MeanShift - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 250/0. Noise: 59
+UBC8 (103+300%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 15/0. Noise: 397
+UBC8 (103+300%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 103. New: 19/0. Noise: 393
+UBC8 (103+300%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 103. New: 4/0. Noise: 408
+UBC8 (103+300%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 103. New: 7/0. Noise: 405
+UBC8 (103+300%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 411
+UBC8 (103+300%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 103. New: 3/0. Noise: 409
+UBC8 (103+300%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 410
+UBC8 103 500 MeanShift
+UBC8 (103+500%) MeanShift - Estimated number of clusters: 19 (Silhouette: 0.3988)
+UBC8 (103+500%) MeanShift - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 447/2. Noise: 68
+UBC8 (103+500%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 8/0. Noise: 610
+UBC8 (103+500%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 103. New: 4/0. Noise: 614
+UBC8 (103+500%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 103. New: 22/0. Noise: 596
+UBC8 (103+500%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 103. New: 8/0. Noise: 610
+UBC8 (103+500%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 616
+UBC8 (103+500%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 103. New: 10/0. Noise: 608
+UBC8 (103+500%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 616
+UBC8 (103+500%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 (103+500%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 616
+UBC8 (103+500%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 617
+UBC8 103 1000 MeanShift
+UBC8 (103+1000%) MeanShift - Estimated number of clusters: 26 (Silhouette: 0.3602)
+UBC8 (103+1000%) MeanShift - Cluster 0. Found: 103 (100.0%). Missed: 0. New: 924/4. Noise: 106
+UBC8 (103+1000%) MeanShift - Cluster 1. Found: 0 (0.0%). Missed: 103. New: 20/0. Noise: 1113
+UBC8 (103+1000%) MeanShift - Cluster 2. Found: 0 (0.0%). Missed: 103. New: 12/0. Noise: 1121
+UBC8 (103+1000%) MeanShift - Cluster 3. Found: 0 (0.0%). Missed: 103. New: 9/0. Noise: 1124
+UBC8 (103+1000%) MeanShift - Cluster 4. Found: 0 (0.0%). Missed: 103. New: 9/0. Noise: 1124
+UBC8 (103+1000%) MeanShift - Cluster 5. Found: 0 (0.0%). Missed: 103. New: 11/0. Noise: 1122
+UBC8 (103+1000%) MeanShift - Cluster 6. Found: 0 (0.0%). Missed: 103. New: 8/0. Noise: 1125
+UBC8 (103+1000%) MeanShift - Cluster 7. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 1131
+UBC8 (103+1000%) MeanShift - Cluster 8. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 1131
+UBC8 (103+1000%) MeanShift - Cluster 9. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 10. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 11. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 12. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 13. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 14. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 15. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 16. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 1131
+UBC8 (103+1000%) MeanShift - Cluster 17. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 18. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 19. Found: 0 (0.0%). Missed: 103. New: 2/0. Noise: 1131
+UBC8 (103+1000%) MeanShift - Cluster 20. Found: 0 (0.0%). Missed: 103. New: 15/0. Noise: 1118
+UBC8 (103+1000%) MeanShift - Cluster 21. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 22. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 23. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 24. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+UBC8 (103+1000%) MeanShift - Cluster 25. Found: 0 (0.0%). Missed: 103. New: 1/0. Noise: 1132
+
+
+Params: {'bandwidth': None, 'bin_seeding': False, 'cluster_all': True, 'max_iter': 300, 'min_bin_freq': 1, 'n_jobs': None, 'seeds': None}
+
