@@ -8,7 +8,7 @@ from utils import Utils
 def print_help():
     print(f'Wrong numer of arguments.')
     print(f'Expected: python launcher.py <directory>')
-    print(f'\t e.g: python launcher.py ./0_run_1')
+    print(f'\t e.g: python launcher.py ./test_1')
 
 
 if len(sys.argv) < 2:
